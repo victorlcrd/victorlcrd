@@ -1,5 +1,5 @@
 # 👨‍💻 Victor Lacerda
-➡️ Conta destinada aos projetos feitos durante a faculdade de Análise e Desenvolvimento de Sistemas no IFSC, e aos projetos e estudos 
+➡️ Conta destinada aos projetos feitos durante a faculdade de Análise e Desenvolvimento de Sistemas no IFSC e aos projetos e estudos 
 independentes feitos ao decorrer do curso.
 
 ***[<img 
