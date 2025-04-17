@@ -34,6 +34,13 @@ independentes feitos ao decorrer do curso.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor3294&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor3294&layout=compact&theme=tokyonight" />
+</div>
+
 <img 
     align="left" 
     alt="CSS" 
