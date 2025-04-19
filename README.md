@@ -2,13 +2,14 @@
 ➡️ Conta destinada aos projetos feitos durante a faculdade de Análise e Desenvolvimento de Sistemas no IFSC e aos projetos e estudos 
 independentes feitos ao decorrer do curso.
 
-***[<img 
+[<img 
     align="left" 
     alt="" 
     title="Linkedin"
     width="80px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/victor-lacerda-78809020b)***
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>](https://www.linkedin.com/in/victor-lacerda-78809020b)
   
 
 <br>    
