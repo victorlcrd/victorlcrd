@@ -12,8 +12,7 @@ independentes feitos ao decorrer do curso.
 />](https://www.linkedin.com/in/victor-lacerda-78809020b)
   
 
-<br>    
-
+<br>   
           
 #
 
