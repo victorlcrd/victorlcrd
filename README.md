@@ -69,7 +69,7 @@ independentes feitos ao decorrer do curso.
     <td>
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victorlcrd&theme=highcontrast&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorlcr&theme=highcontrast&hide_border=false"
         alt="Github Stats"
       />
     </td>
