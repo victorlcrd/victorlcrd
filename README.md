@@ -73,6 +73,9 @@ independentes feitos ao decorrer do curso.
         alt="Github Stats"
       />
     </td>
+      <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlcrd&layout=compact&theme=highcontrast" />
+  </td>
   </tr>
 </table>
 
@@ -82,3 +85,5 @@ independentes feitos ao decorrer do curso.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorlcrd/victorlcrd/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victorlcrd/victorlcrd/output/github-contribution-grid-snake.svg">
 </picture>
+
+
