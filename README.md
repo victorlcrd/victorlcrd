@@ -7,7 +7,7 @@
 <p align="center">
   Systems Analysis and Development student at <b>IFSC</b> and Junior Analyst at <b>Veolia</b>.<br>
   Interested in software development, networking, and practical solutions to real-world problems.<br>
-  Photography is my hobby, and I shoot with a <b>Nikon D40</b>
+  Former network analyst. When I'm not configuring a <b>RouterBOARD</b>, you'll find me taking photos with my <b>Nikon D40</b>
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,react,py,js,postgres,git,vscode,linux" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,react,py,js,postgres,git,vscode,idea,androidstudio,linux" alt="Technologies">
 </p>
 
-- **Languages:** Java, React, Python, JavaScript
+- **Languages:** Java, Kotlin, React, Python, JavaScript
 - **Databases:** PostgreSQL
 - **Networking:** TCP/IP, enterprise networks, RouterBOARD, VPN, support and configuration
-- **Tools:** Git, VS Code, Linux
+- **Tools:** Git, VS Code, IntelliJ, Android Studio, Linux
