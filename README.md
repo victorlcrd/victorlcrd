@@ -1,10 +1,23 @@
-<img src="https://raw.githubusercontent.com/victorlcrd/victorlcrd/main/image.png" alt="Boat on the sea" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/victorlcrd/victorlcrd/main/banner.png" alt="Boat on the sea" width="100%">
+</p>
 
-<h2>Victor Lacerda</h2>
+<h1 align="center">Victor Lacerda</h1>
 
-Systems Analysis and Development student at IFSC and Junior Analyst at Veolia. Interested in software development, networking, and practical solutions to real-world problems.
+<p align="center">
+  Systems Analysis and Development student at <b>IFSC</b> and Junior Analyst at <b>Veolia</b>.<br>
+  Interested in software development, networking, and practical solutions to real-world problems.<br>
+  Photography is my hobby, and I shoot with a <b>Nikon D40</b>
+</p>
 
-<h3>Areas of Interest</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorlcrd/"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Lacerda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lacerd74@gmail.com"><img src="https://img.shields.io/badge/Email-lacerd74@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## Areas of Interest
 
 - Web development
 - Networking
@@ -12,14 +25,13 @@ Systems Analysis and Development student at IFSC and Junior Analyst at Veolia. I
 - Automation and scripting
 - Technical support and infrastructure
 
-<h3>Technologies</h3>
+## Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,react,py,js,postgres,git,vscode,linux" alt="Technologies">
+</p>
 
 - **Languages:** Java, React, Python, JavaScript
 - **Databases:** PostgreSQL
 - **Networking:** TCP/IP, enterprise networks, RouterBOARD, VPN, support and configuration
 - **Tools:** Git, VS Code, Linux
-
-<h3>Contact</h3>
-
-- LinkedIn: [Victor Lacerda](https://www.linkedin.com/in/victorlcrd/)
-- Email: lacerd74@gmail.com
