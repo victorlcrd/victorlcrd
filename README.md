@@ -7,7 +7,7 @@
 <p align="center">
   Systems Analysis and Development student at <b>IFSC</b> and Junior Analyst at <b>Veolia</b>.<br>
   Interested in software development, networking, and practical solutions to real-world problems.<br>
-  Former network analyst. When I'm not configuring a <b>RouterBOARD</b>, you'll find me taking photos with my <b>Nikon D40</b>
+  Former network analyst. My camera is a b>Nikon D40</b>
 </p>
 
 <p align="center">
